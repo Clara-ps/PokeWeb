@@ -1,4 +1,3 @@
-
 export default function PokemonDetails({ pokemon, onClose }) {
     if (!pokemon) {
         return null;
