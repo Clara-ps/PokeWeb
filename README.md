@@ -12,15 +12,16 @@ Para obter e exibir os dados, foi utilizada a [PokéAPI](https://pokeapi.co/), u
 
 - Node.js: v24.14.0
 - React: v19.3.1
-- Vite: v8.3.4
-- Oxlint: v1.88.0
+- React DOM: v19.3.1
+- Vite: v8.3.6
+- Oxlint: v1.90.0
 - CSS3
 
 ## Funcionalidades
 
 - **Listagem de Pokémon:** exibe os Pokémon em cards, contendo nome, número de identificação, imagem e tipos.
 - **Paginação:** permite navegar entre diferentes páginas da listagem, carregando 20 Pokémon por vez.
-- **Busca por nome:** permite pesquisar Pokémon pelo nome.
+- **Busca:** permite pesquisar Pokémon pelo nome ou número de identificação.
 - **Filtro por tipo:** permite selecionar um tipo e visualizar os Pokémon associados a ele, informando a quantidade existente.
 - **Detalhes do Pokémon:** permite selecionar um Pokémon para visualizar informações adicionais, como altura, peso, habilidades, estatísticas e sprites.
 
