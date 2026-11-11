@@ -1,4 +1,3 @@
-
 export default function PokemonCard({ pokemon, onClick }) {
     return (
         <article className="pokemon-card">
@@ -19,8 +18,3 @@ export default function PokemonCard({ pokemon, onClick }) {
         </article>
     );
 }
-
-
-//   const sprite =
-//     pokemon.sprites.other['official-artwork'].front_default ||
-//     pokemon.sprites.front_default;
